@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Sex-on-the-Beach_TOHVP24_276668_MF_05_21_1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
